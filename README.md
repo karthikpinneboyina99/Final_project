@@ -184,5 +184,5 @@ Options:
 --> It is able to retrieve the account details and the individual cart data is associated with their respective accounts.
 
 Enter your choice: 1
-Enter your account name: Akhil
-Welcome back, Akhil!   
+Enter your account name: karthik
+Welcome back, karthik!   
