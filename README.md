@@ -45,8 +45,8 @@ Options:
 
 ## Login
 Enter your choice: 1
-Enter your account name: Akhil
-Welcome, Akhil!  
+Enter your account name: Karthik
+Welcome, Karthik!  
 
 Options:
 1. Login
@@ -167,7 +167,7 @@ Options:
 8. Exit
 ## Logout
 Enter your choice: 2
-Goodbye, Akhil!
+Goodbye, Karthik!
 
 Options:
 1. Login
